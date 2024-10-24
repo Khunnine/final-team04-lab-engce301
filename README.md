@@ -1,6 +1,6 @@
 # 1-67 Final Lab for ENGCE301
 
-## Table of Contents
+## Contents
 - [Description](#description)
 - [Usage](#usage)
 - [Installation](#installation)
