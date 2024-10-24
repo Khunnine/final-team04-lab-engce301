@@ -1,4 +1,4 @@
-# 1-67 Final Lab for ENGCE301 and ENGCE112
+# 1-67 Final Lab for ENGCE301
 # My Awesome Project
 
 ## Table of Contents
@@ -10,11 +10,10 @@
 - [License](#license)
 - [Screenshots](#screenshots)
 
-## Description
-This project is a web application that helps users track their tasks in a simple and efficient way.
-
-## Usage
-To run the project, use the following command:
+## SDD1-67-04
+- [นายพัทธนันท์  ใจช่วย](https://github.com/yourusername)
+- [นางสาวณัฐฎภรณ์  ใจมนต์](https://github.com/yourusername)
+- [นางสาวอริยา  รันยะ](https://github.com/yourusername)
 
 ```bash
 $ npm start
