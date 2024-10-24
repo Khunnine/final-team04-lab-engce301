@@ -11,9 +11,9 @@
 - [Screenshots](#screenshots)
 
 ## SDD1-67-04
-- [นายพัทธนันท์  ใจช่วย](https://github.com/yourusername)
-- [นางสาวณัฐฎภรณ์  ใจมนต์](https://github.com/yourusername)
-- [นางสาวอริยา  รันยะ](https://github.com/yourusername)
+- [นายพัทธนันท์  ใจช่วย](https://github.com/ItsPatthanan)  ตำแหน่ง: Developer
+- [นางสาวณัฐฎภรณ์  ใจมนต์](https://github.com/Khunnine) ตำแหน่ง: System Analyst (SA)
+- [นางสาวอริยา  รันยะ](https://github.com/NANI2D21) ตำแหน่ง: Tester
 
 ```bash
 $ npm start
